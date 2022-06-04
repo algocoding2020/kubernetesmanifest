@@ -6,3 +6,6 @@ This repo along with https://github.com/algocoding2020/kubernetescode, creates a
 
 
 Please refer to the https://github.com/algocoding2020/kubernetescode/blob/main/README.md for the instructions on how to use the codes.
+
+
+![GitOps-pipeline](https://user-images.githubusercontent.com/69389020/171991291-7e9d0bc2-db57-454c-a10f-71f9ea3baabc.png)
